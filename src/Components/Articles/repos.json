@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Newsletter",
+        "description": [
+            "'Newsletter': Projeto React desenvolvido com Vite e estilizado com Tailwind. Inclui uma página de login que solicita nome e e-mail, além de suporte para temas claro e escuro. As notícias são exibidas dinamicamente através de dados JSON."
+        ],
+        "image": "https://user-images.githubusercontent.com/69257259/262826860-9939bd82-afa4-4ead-bef8-52ce613a8623.png",
+        "alt": "Página de login da Newsletter",
+        "image2": "https://user-images.githubusercontent.com/69257259/262826909-21010e22-5645-4cb4-a8c0-008e8a76d2f1.png",
+        "alt2": "Página Principal da Newsletter",
+        "skills": [
+            "React",
+            "Tailwind",
+            "Vite"
+        ],
+        "link": "https://newsletter-ten-beta.vercel.app/"
+    },
+    {
+        "title": "Readings",
+        "description": [
+            "'Readings' é um projeto desenvolvido com foco em Mobile-First. Foi criada a estrutura do site e do menu de categorias utilizando HTML e CSS. Na página de Cadastro, implementou-se JavaScript para autenticação do CEP."
+        ],
+        "image": "https://user-images.githubusercontent.com/69257259/261044017-9a5960af-af5f-4559-a28e-03621e7f394c.png",
+        "alt": "Página inicial do Readings com o menu Categorias aberto.",
+        "image2": "https://user-images.githubusercontent.com/69257259/262136898-c6f2648f-140a-4336-8459-fde72f2a5fa3.png",
+        "alt2": "Página de cadastro.",
+        "skills": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "link": "https://readings-mzubk.vercel.app/"
+    },
+    {
+        "title": "Sereno SPA",
+        "description": [
+            "'Sereno Spa' é um site Landing Page que apresenta um spa fictício com a tranquilidade como foco principal. Desenvolvido com SCSS, o design usa de cores quentes. Navegando pelo site, os visitantes podem explorar os diversos serviços oferecidos pelo spa, imersos em imagens relaxantes. "
+        ],
+        "image": "https://user-images.githubusercontent.com/69257259/258539789-1a7c0d03-c6d4-417d-8fbc-beea4e7a835f.png",
+        "alt": "Página completa do Sereno SPA.",
+        "skills": [
+            "HTML",
+            "SCSS"
+        ],
+        "link": "https://sereno-spa.vercel.app/"
+    },
+    {
+        "title": "fruto & fruta",
+        "description": [
+            "'Fruto & Futa': Um site no formato Landing Page criado usando HTML e estilizado com Bootstrap. Ele abrange a construção da barra de navegação (navbar), um carrossel de imagens, cards informativos e um modal de contato."
+        ],
+        "image": "https://user-images.githubusercontent.com/69257259/262421797-616e28fb-63ad-49e6-a522-3547e10844b3.png",
+        "alt": "Página inicial do site",
+        "image2": "https://user-images.githubusercontent.com/69257259/262417368-f29f649a-bd9a-4500-99ee-5fe932300ab0.png",
+        "alt2": "Modal de contatos",
+        "skills": [
+            "HTML",
+            "Bootstrap"
+        ],
+        "link": "https://fruto-fruta-two.vercel.app/"
+    }
+]

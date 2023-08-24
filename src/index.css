@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .card__image {
+    @apply bg-stone-700 mb-3 border-4 border-stone-700;
+  }
+
+  .card__image-alt {
+    @apply font-mono text-sm pl-2 text-stone-50;
+  }
+}

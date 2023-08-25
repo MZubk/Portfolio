@@ -17,7 +17,7 @@ export default function App() {
             <aside className="h-fit w-full mr-4 mb-5 sm:mb-4 lg:w-80 bg-gray-900">
               <Aside />
             </aside>
-            <article className="flex-1 px-4 pt-4 mb-4 border-2 border-zinc-800 bg-gray-950">
+            <article className="flex-1 px-4 pt-4 mb-4 border-2 border-zinc-800 bg-gray-900">
               <Projects />
               <Article />
               <BtnScrollToUp />

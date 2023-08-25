@@ -20,7 +20,7 @@ export default function Contact() {
             </i>
             <span className="px-2">/mzubk</span>
             <a
-              className="hover:text-green-600"
+              className="text-emerald-100 hover:text-emerald-500"
               href="https://github.com/MZubk"
               target="_blank"
               rel="noreferrer"
@@ -34,7 +34,7 @@ export default function Contact() {
             </i>
             <span className="px-2">in/mzubk</span>
             <a
-              className="hover:text-green-600"
+              className="text-emerald-100 hover:text-emerald-500"
               href="https://www.linkedin.com/in/mzubk/"
               target="_blank"
               rel="noreferrer"
@@ -48,7 +48,7 @@ export default function Contact() {
             </i>
             <span className="px-2">mzubk.dev@gmail.com</span>
             <a
-              className="hover:text-green-600"
+              className="text-emerald-100 hover:text-emerald-500"
               href="mailto:mzubk.dev@gmail.com"
               target="_blank"
               rel="noreferrer"
@@ -62,7 +62,7 @@ export default function Contact() {
             </i>
             <span className="px-2">Curitiba, PR - Brasil</span>
             <a
-              className="hover:text-green-600"
+              className="text-emerald-100 hover:text-emerald-500"
               href="https://goo.gl/maps/YUqLLhEC4mTdGE9o8"
               target="_blank"
               rel="noreferrer"

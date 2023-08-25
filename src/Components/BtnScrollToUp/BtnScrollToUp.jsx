@@ -28,7 +28,7 @@ export default function BtnScrollToUp() {
 
   return (
     <button
-      className={`scale-125 -rotate-45  fixed bottom-4 right-10 p-2 rounded-full border-2 text-amber-500 bg-slate-800 border-amber-950 hover:scale-150 hover:border-amber-700 hover:text-orange-400 ${
+      className={`transition ease-in-out scale-125 hover:-translate-y-3 -rotate-45  fixed bottom-10 right-10 p-2 rounded-full border-2 text-emerald-400 bg-stone-800 border-amber-950 hover:scale-150 hover:border-amber-700 hover:text-emerald-500 ${
         btnVisible ? "opacity-100" : "opacity-0"
       } transition-opacity duration-300`}
       onClick={scrollToUp}

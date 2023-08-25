@@ -1,6 +1,6 @@
 import Article from "./Components/Articles/Articles";
 import Aside from "./Components/Aside/Aside";
-import BtnScrollToUp from "./Components/BtnScrollToUp/BtnScrollToup";
+import BtnScrollToUp from "./Components/BtnScrollToUp/BtnScrollToUp";
 import Footer from "./Components/Footer/Footer";
 import Header from "./Components/Header/Header";
 import Projects from "./Components/Projects/Projects";

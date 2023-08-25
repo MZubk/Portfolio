@@ -1,5 +1,6 @@
 import Article from "./Components/Articles/Articles";
 import Aside from "./Components/Aside/Aside";
+import BtnScrollToUp from "./Components/BtnScrollToUp/BtnScrollToup";
 import Footer from "./Components/Footer/Footer";
 import Header from "./Components/Header/Header";
 import Projects from "./Components/Projects/Projects";
@@ -19,6 +20,7 @@ export default function App() {
             <article className="flex-1 px-4 pt-4 mb-4 border-2 border-zinc-800 bg-gray-950">
               <Projects />
               <Article />
+              <BtnScrollToUp />
             </article>
           </main>
         </div>

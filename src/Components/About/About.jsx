@@ -6,14 +6,11 @@ export default function About() {
       </div>
       <div>
         <p className="whitespace-normal px-3 pb-1">
-          Sou um desenvolvedor front-end imerso no universo da tecnologia. Minha
-          paixão por essa área é o motor que me impulsiona.
+          Olá. sou o Murillo Zubk, desenvolvedor front-end.
         </p>
         <p className="whitespace-normal px-3">
-          Constantemente em busca de aprimorar minhas habilidades e absorver
-          conhecimento, mantenho-me em sintonia com as últimas tendências. Minha
-          criatividade aliada a uma comunicação me permite me adaptar com
-          facilidade a qualquer ambiente de trabalho.
+          Obrigado por visitar meu Portfólio, aqui apresento meus principais
+          projetos que considero mais relevantes.
         </p>
       </div>
       <div className="py-2">
@@ -22,17 +19,17 @@ export default function About() {
         </div>
         <div>
           <p className="whitespace-normal px-3">
-            Convido você a explorar meu portfólio, uma vitrine onde apresento
-            meus principais projetos e conquistas. Cada projeto é uma
-            oportunidade de aplicar minhas habilidades de maneira criativa e
-            funcional. Além disso, meu{" "}
+            Convido você a explorar meu portfólio, uma vitrine do meu trabalho.
+            Cada um desses projetos foi uma oportunidade de aprender e aplicar
+            minhas habilidades de maneira criativa e funcional. Fique à vontade
+            também de vistar meu{" "}
             <a
               className="text-violet-100 hover:text-violet-600"
               href="https://github.com/MZubk"
             >
               Github
             </a>{" "}
-            é um espaço aberto onde compartilho minha jornada de
+            que é um espaço aberto onde compartilho minha jornada de
             desenvolvimento.
           </p>
         </div>

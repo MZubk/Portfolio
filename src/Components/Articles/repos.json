@@ -1,5 +1,6 @@
 [
     {
+        "id": "1",
         "title": "Newsletter",
         "description": [
             "'Newsletter': Projeto React desenvolvido com Vite e estilizado com Tailwind. Inclui uma página de login que solicita nome e e-mail, além de suporte para temas claro e escuro. As notícias são exibidas dinamicamente através de dados JSON."
@@ -16,6 +17,7 @@
         "link": "https://newsletter-ten-beta.vercel.app/"
     },
     {
+        "id": "2",
         "title": "Readings",
         "description": [
             "'Readings' é um projeto desenvolvido com foco em Mobile-First. Foi criada a estrutura do site e do menu de categorias utilizando HTML e CSS. Na página de Cadastro, implementou-se JavaScript para autenticação do CEP."
@@ -32,6 +34,7 @@
         "link": "https://readings-mzubk.vercel.app/"
     },
     {
+        "id": "3",
         "title": "Sereno SPA",
         "description": [
             "'Sereno Spa' é um site Landing Page que apresenta um spa fictício com a tranquilidade como foco principal. Desenvolvido com SCSS, o design usa de cores quentes. Navegando pelo site, os visitantes podem explorar os diversos serviços oferecidos pelo spa, imersos em imagens relaxantes. "
@@ -45,6 +48,7 @@
         "link": "https://sereno-spa.vercel.app/"
     },
     {
+        "id": "4",
         "title": "fruto & fruta",
         "description": [
             "'Fruto & Futa': Um site no formato Landing Page criado usando HTML e estilizado com Bootstrap. Ele abrange a construção da barra de navegação (navbar), um carrossel de imagens, cards informativos e um modal de contato."

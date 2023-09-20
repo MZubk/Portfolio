@@ -1,5 +1,4 @@
 import PropTypes from "prop-types";
-
 export default function Card({
   title,
   description,
@@ -11,12 +10,12 @@ export default function Card({
   link,
 }) {
   return (
-    <div className="mb-5 p-3 bg-neutral-950 sm:rounded-xl sm:shadow-lg flex-col items-center gap-2 border-2 border-zinc-800 sm:hover:shadow-stone-900 sm:hover:shadow-md">
+    <div className="mb-5 p-3 bg-neutral-950 sm:rounded-xl sm:shadow-lg flex-col items-center gap-2 border-2 border-stone-800 sm:hover:shadow-stone-900 sm:hover:shadow-md">
       <h3 className="text-xl pb-3 text-slate-100 font-bold">{title}</h3>
       <div className="flex-row justify-end gap-2 p-2 ">
         {skills.map((skill) => (
           <span
-            className="bg-slate-700 mx-1 px-3 py-1 rounded-xl text-green-400 text-xs uppercase font-mono"
+            className="bg-stone-800 mx-1 px-3 py-1 rounded-xl text-emerald-400 text-xs uppercase font-mono"
             key={skill}
           >
             {skill}

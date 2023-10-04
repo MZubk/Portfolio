@@ -10,7 +10,7 @@ export default function Card({
   link,
 }) {
   return (
-    <div className="mb-5 p-3 bg-neutral-950 sm:rounded-xl sm:shadow-lg flex-col items-center gap-2 border-2 border-stone-800 sm:hover:shadow-stone-900 sm:hover:shadow-md">
+    <div className="mb-5 p-3 bg-gradient-to-b from-neutral-900 from-30% via-neutral-800 to-neutral-950 sm:rounded-xl sm:shadow-lg flex-col items-center gap-2 border_base hover:border_primary sm:hover:shadow-stone-900 sm:hover:shadow-md">
       <h3 className="text-xl pb-3 text-slate-100 font-bold">{title}</h3>
       <div className="flex-row justify-end gap-2 p-2 ">
         {skills.map((skill) => (
@@ -32,19 +32,19 @@ export default function Card({
       {image && (
         <div className="card__image">
           <img className="sm:p-1 min-w-[100%]" src={image}></img>
-          {alt && <p className="ard__image-alt ">{alt}</p>}
+          {alt && <p className="card__image-alt ">{alt}</p>}
         </div>
       )}
 
       {image2 && (
         <div className="card__image">
           <img className="sm:p-1 min-w-[100%]" src={image2}></img>
-          {alt && <p className="ard__image-alt ">{alt2}</p>}
+          {alt && <p className="card__image-alt">{alt2}</p>}
         </div>
       )}
       <div className="my-5">
         <a
-          className="bg-stone-800 rounded-lg font-bold px-6 py-2 hover:font-bold hover:text-green-400 hover:bg-stone-900"
+          className="bg_btn rounded-lg font-bold px-6 py-2 hover:font-bold hover:text-green-400 hover:bg_btn-hover"
           href={link}
           target="_blank"
           rel="noreferrer"

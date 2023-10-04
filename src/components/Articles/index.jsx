@@ -1,5 +1,5 @@
 import data from "./repos.json";
-import Card from "../Cards/Card";
+import Card from "components/Cards";
 
 export default function Article() {
   return (

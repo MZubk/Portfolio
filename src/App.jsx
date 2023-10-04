@@ -1,15 +1,15 @@
-import Article from "./Components/Articles/Articles";
-import Aside from "./Components/Aside/Aside";
-import BtnScrollToUp from "./Components/BtnScrollToUp/BtnScrollToUp";
-import Footer from "./Components/Footer/Footer";
-import Header from "./Components/Header/Header";
-import Projects from "./Components/Projects/Projects";
+import Article from "components/Articles";
+import Aside from "components/Aside";
+import BtnScrollToUp from "components/BtnScrollToUp";
+import Footer from "components/Footer";
+import Header from "components/Header";
+import Projects from "components/Projects";
 
 export default function App() {
   return (
     <>
-      <div className="flex flex-col ">
-        <header className="pt-8 mb-4 bg-gray-900 border-b-2 border-zinc-800">
+      <div className="flex flex-col">
+        <header className="pt-8 mb-4 bg-gradient-to-tr from-slate-900 from-80% via-gray-800 to-slate-900 border-b-2 border-zinc-800">
           <Header />
         </header>
         <div className="m-4">

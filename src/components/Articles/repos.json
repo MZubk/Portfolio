@@ -6,9 +6,9 @@
             "'Newsletter': Projeto React desenvolvido com Vite e estilizado com Tailwind. Inclui uma página de login que solicita nome e e-mail, além de suporte para temas claro e escuro. As notícias são exibidas dinamicamente através de dados JSON."
         ],
         "image": "https://user-images.githubusercontent.com/69257259/262826860-9939bd82-afa4-4ead-bef8-52ce613a8623.png",
-        "alt": "Página de login da Newsletter",
+        "alt": "Página de login da Newsletter.",
         "image2": "https://user-images.githubusercontent.com/69257259/262826909-21010e22-5645-4cb4-a8c0-008e8a76d2f1.png",
-        "alt2": "Página Principal da Newsletter",
+        "alt2": "Página Principal da Newsletter.",
         "skills": [
             "React",
             "Tailwind",
@@ -54,13 +54,30 @@
             "'Fruto & Futa': Um site no formato Landing Page criado usando HTML e estilizado com Bootstrap. Ele abrange a construção da barra de navegação (navbar), um carrossel de imagens, cards informativos e um modal de contato."
         ],
         "image": "https://user-images.githubusercontent.com/69257259/262421797-616e28fb-63ad-49e6-a522-3547e10844b3.png",
-        "alt": "Página inicial do site",
+        "alt": "Página inicial do site.",
         "image2": "https://user-images.githubusercontent.com/69257259/262417368-f29f649a-bd9a-4500-99ee-5fe932300ab0.png",
-        "alt2": "Modal de contatos",
+        "alt2": "Modal de contatos.",
         "skills": [
             "HTML",
             "Bootstrap"
         ],
         "link": "https://fruto-fruta-two.vercel.app/"
+    },
+    {
+        "id": "5",
+        "title": "Sereno Space",
+        "description": [
+            "'Sereno Space': uma galeria do espaço que desenvolvi com React.js. Com uma interface cativante e tags de filtro, você pode explorar imagens da lua, galáxias e estrelas. Uma homenagem à ciência e ao design web. "
+        ],
+        "image": "https://user-images.githubusercontent.com/69257259/266411041-8e9a5f70-1c5f-476a-b65e-739030a7cbc2.png",
+        "alt": "Página completa do Sereno Space.",
+        "image2": "",
+        "alt2": "",
+        "skills": [
+            "React",
+            "SCSS",
+            "HTML"
+        ],
+        "link": "https://sereno-space.vercel.app/"
     }
 ]

@@ -16,11 +16,11 @@
   }
 
   .bg_btn {
-    @apply bg-gradient-to-br from-gray-900 from-30% via-gray-950 to-gray-900;
+    @apply bg-gradient-to-br from-gray-900 from-10% via-zinc-950 to-gray-900;
   }
 
   .bg_btn-hover {
-    @apply bg-gradient-to-br from-gray-950 from-20% via-gray-900 to-gray-950;
+    @apply bg-gradient-to-br from-zinc-950 from-20% via-gray-900 to-zinc-950;
   }
 
   .border_base {

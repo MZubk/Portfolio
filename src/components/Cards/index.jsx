@@ -44,7 +44,7 @@ export default function Card({
       )}
       <div className="my-5">
         <a
-          className="bg_btn rounded-lg font-bold px-6 py-2 hover:font-bold hover:text-green-400 hover:bg_btn-hover"
+          className="bg_btn border_base hover:border-emerald-950 rounded-lg font-bold px-6 py-2 hover:font-bold hover:text-emerald-400 hover:bg_btn-hover"
           href={link}
           target="_blank"
           rel="noreferrer"

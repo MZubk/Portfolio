@@ -1,4 +1,4 @@
-import photo from "./photo.jpg";
+import photo from "./photo.png";
 
 export default function Photo() {
   return (
